@@ -1,0 +1,64 @@
+html, body {
+	width:100%;
+	height:100%;
+	font-size:10px;
+	/* background:#E0E0E0; */
+	font-weight: 500;
+	font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+}
+
+body {
+	padding-top: 50px;
+}
+
+.blockCenter {
+	position:absolute; top:0; bottom:0; margin:auto;
+}
+
+.width100 {
+	width: 100%;
+}
+
+.hide {
+	display: none;
+}
+
+.float_left {
+	float: left;
+}
+
+.float_right{
+	float: right;
+}
+
+.tip_color {
+	color: #7B7B7B;
+}
+
+.warn_color {
+	color: #EFAD4D;
+}
+
+.error_color {
+	color : #D9544F;
+}
+
+.font1_4em {
+	font-size:1.4em;
+}
+
+.font1_6em {
+	font-size:1.6em;
+}
+
+.font_2em {
+	font-size: 2em;
+}
+
+.font_bold {
+  font-weight: bold;
+}
+
+.block_center{
+	text-align: center;
+}
