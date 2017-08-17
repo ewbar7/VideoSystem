@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-07-16 16:06:58
+ * @version $Id$
+ */
+
+html, body {
+	position: relative;
+}
+
+header, section, footer {
+	position:relative;
+}
+
+.height_450 {
+	height: 450px;
+}
+
+.height_350 {
+	height: 350px;
+}
+
+.scollbar {
+	overflow: auto;
+	overflow-x: hidden;
+}
+
+.float_left {
+	position: absolute;
+	padding-left: 50px;
+	left: 0px;
+	color:red;
+}
+
+
+
+
+
